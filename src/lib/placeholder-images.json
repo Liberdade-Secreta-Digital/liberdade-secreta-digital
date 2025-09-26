@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ebook-cover",
+      "description": "Ebook cover for Anonimato Total",
+      "imageUrl": "https://firebasestudio.googleapis.com/v0/b/firebase-studio-users.appspot.com/o/user-uploads%2Fclws8tghw00021380k6b9k4h5%2F3a3d5e4b-7006-4074-8848-38202fd815d3?alt=media&token=8679d628-9104-469b-861c-0e86b02a9b40",
+      "imageHint": "ebook cover online privacy"
+    },
+    {
+      "id": "hero-image",
+      "description": "Anonymous hacker mask",
+      "imageUrl": "https://images.unsplash.com/photo-1674049405160-9b800f5645f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYWNrZXIlMjBtYXNrfGVufDB8fHx8MTc1ODgyNjIwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hacker mask"
+    },
+    {
+      "id": "bonus-tools",
+      "description": "Icon for secret tools bonus",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226205-b28ac533a45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0b29scyUyMGNvZGV8ZW58MHx8fHwxNzU4ODYyNDgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tools code"
+    },
+    {
+      "id": "bonus-checklist",
+      "description": "Icon for security checklist bonus",
+      "imageUrl": "https://images.unsplash.com/photo-1740908900906-a51032597559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGVja2xpc3QlMjBzZWN1cml0eXxlbnwwfHx8fDE3NTg4NjI0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "checklist security"
+    },
+    {
+      "id": "bonus-group",
+      "description": "Icon for VIP group access bonus",
+      "imageUrl": "https://images.unsplash.com/photo-1455734729978-db1ae4f687fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBncm91cHxlbnwwfHx8fDE3NTg4MTI0ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "community group"
+    }
+  ]
+}
