@@ -37,7 +37,7 @@ export const SolutionSection = () => {
               ))}
             </ul>
             <Button asChild size="lg" className="mt-8 font-headline text-xl h-14 w-full md:w-auto">
-              <a href="#comprar">
+              <a href="https://pay.kirvano.com/7a825b15-f6f4-4a0c-b831-d1134d79dad8">
                 <ShieldCheck className="mr-2" />
                 PROTEGER MINHA IDENTIDADE AGORA
               </a>
