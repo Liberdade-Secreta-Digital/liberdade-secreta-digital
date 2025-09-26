@@ -47,7 +47,7 @@ export const HeroSection = () => {
         </div>
         <div className="mt-10 animate-in fade-in zoom-in-95 duration-500 delay-400">
           <Button asChild size="lg" className="font-headline text-2xl h-16 px-10 shadow-lg shadow-primary/30 hover:scale-105 transition-transform duration-300">
-            <a href="#comprar">🔥 QUERO MEU ANONIMATO AGORA! 🔥</a>
+            <a href="https://pay.kirvano.com/7a825b15-f6f4-4a0c-b831-d1134d79dad8">🔥 QUERO MEU ANONIMATO AGORA! 🔥</a>
           </Button>
           <div className="mt-3 flex items-center justify-center gap-2 text-sm text-muted-foreground">
             <Zap className="h-4 w-4 text-secondary" />
