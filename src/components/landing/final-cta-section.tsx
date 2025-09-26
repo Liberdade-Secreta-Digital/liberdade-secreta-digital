@@ -28,7 +28,7 @@ export const FinalCtaSection = () => {
                 <li className="flex items-center gap-2"><Zap className="h-4 w-4 text-secondary"/> 7 Dias de Garantia</li>
             </ul>
             <Button asChild size="lg" className="font-headline text-2xl h-16 w-full shadow-lg shadow-primary/30 hover:scale-105 transition-transform duration-300">
-              <a href="#">🔥 QUERO MEU ACESSO IMEDIATO! 🔥</a>
+              <a href="https://pay.kirvano.com/7a825b15-f6f4-4a0c-b831-d1134d79dad8">🔥 QUERO MEU ACESSO IMEDIATO! 🔥</a>
             </Button>
             <div className="mt-3 text-sm text-muted-foreground">
                 Pagamento único. Acesso vitalício.
